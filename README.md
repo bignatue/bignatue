@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bignatue
 - 👀 I’m interested in hiking
-- 🌱 I’m currently learning how to dance 😮
-- 💞️
+- 🌱 I’m currently learning to drive
+- 💞️ I’m looking for React project
 - 📫 contact me at bignatue@gmail.com
 
 <!---
